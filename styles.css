@@ -1,0 +1,73 @@
+body{
+  background-color:#FFDAB9; 
+ }
+  
+#me{
+   color:#FF0080; 
+}
+
+
+.byline{
+  font-style: Italic; 
+  color: #C21460; 
+}
+.start{
+  
+}
+
+.facts{
+  color:#8000FF;
+}
+
+img{
+  width: 450px;
+  border: 2px solid #FFE4E1; 
+  
+}
+
+
+.food{
+  width: 250px;
+  border: 2px solid #FFE4E1; 
+}
+
+.fam{
+  width: 360px;
+  border: 2px solid #FFE4E1; 
+}
+
+.end{
+  color:#ff0000
+}
+
+.B{
+  color:#40ff00
+}
+
+.Y{
+  color:#0080ff
+}
+
+#E{
+  color:#bf00ff
+}
+
+#B2{
+  color: #ff0080
+}
+
+#B3{
+  color:#9900e6
+}
+
+.para{
+  background-color: salmon;
+}
+
+.name{
+  color:#FF1493
+}
+#farm{
+  width: 200px;
+  border: 2px solid #FFE4E1; 
+}  
